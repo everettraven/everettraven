@@ -10,6 +10,7 @@ I'm passionate about building tools with a delightful user experience that makes
     - [operator-framework/catalogd](https://github.com/operator-framework/catalogd)
     - [operator-framework/operator-controller](https://github.com/operator-framework/operator-controller)
 - Member of the [Operator Framework](https://github.com/operator-framework) Steering Committee
+- Building [buoy](https://github.com/everettraven/buoy) in my free time
 
 ---
 
