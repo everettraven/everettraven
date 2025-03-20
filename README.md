@@ -4,12 +4,12 @@ Software Engineer @ Red Hat, working on making the experience of developing and 
 
 I'm passionate about building tools with a delightful user experience that makes engineers more productive.
 
-- Maintainer of:
+- Former maintainer of:
     - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
     - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
     - [operator-framework/catalogd](https://github.com/operator-framework/catalogd)
     - [operator-framework/operator-controller](https://github.com/operator-framework/operator-controller)
-- Member of the [Operator Framework](https://github.com/operator-framework) Steering Committee
+- Former member of the [Operator Framework](https://github.com/operator-framework) Steering Committee
 - Building [buoy](https://github.com/everettraven/buoy) in my free time
 
 ---
